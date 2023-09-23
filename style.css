@@ -2,7 +2,7 @@
 body{
     background-image: url(onepiece.jpg);
     background-repeat: no-repeat;
-    background-size: inherit; 
+    background-size: cover; 
 }
 
 
